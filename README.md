@@ -1,1 +1,7 @@
 # Axon-Company-Capstone-Project
+
+Axon, a privately held company specializing in the retail of classic automobiles, is facing challenges in effectively managing, analyzing, and utilizing its sales data. The sales team is struggling to extract meaningful insights from the data, and the company lacks a centralized system to streamline data management and analysis. Consequently, Axon's leadership is unable to access accurate and timely sales reports, hindering their ability to make informed strategic decisions.
+
+As a result of these limitations, Axon's management is unable to gain a comprehensive understanding of their sales performance, identify emerging trends, and make data-driven decisions that could drive business growth. The absence of actionable insights into sales performance is impeding the company's ability to optimize pricing strategies, target marketing campaigns effectively, and enhance customer satisfaction.
+
+To address these critical challenges and unlock the full potential of its sales data, Axon has decided to implement a robust Business Intelligence (BI) solution. This BI solution will provide a centralized repository for sales data, enabling the company to consolidate and analyze data from various sources, including customer information, order history, and product performance metrics. By leveraging the power of advanced analytics, Axon aims to transform its sales data into actionable insights, empowering its leadership to make data-driven decisions that will fuel the company's growth and success.
